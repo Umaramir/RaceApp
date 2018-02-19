@@ -1,0 +1,26 @@
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\RaceApp.Entities.dll
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.csprojResolveAssemblyReference.cache
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.AssemblyInfoInputs.cache
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.AssemblyInfo.cs
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.deps.json
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.runtimeconfig.json
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.runtimeconfig.dev.json
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.dll
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.pdb
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\RaceApp.Entities.pdb
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.dll
+C:\Users\A_Uma\source\repos\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.pdb
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.deps.json
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.runtimeconfig.json
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.runtimeconfig.dev.json
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.dll
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\Services.Data.pdb
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\RaceApp.Entities.dll
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\bin\Debug\netcoreapp2.0\RaceApp.Entities.pdb
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.csprojResolveAssemblyReference.cache
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.AssemblyInfoInputs.cache
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.AssemblyInfo.cs
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.dll
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\Services.Data\obj\Debug\netcoreapp2.0\Services.Data.pdb

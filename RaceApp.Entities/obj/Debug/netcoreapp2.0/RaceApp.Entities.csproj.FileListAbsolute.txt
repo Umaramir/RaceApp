@@ -1,0 +1,18 @@
+C:\Users\A_Uma\source\repos\RaceApp\RaceApp.Entities\bin\Debug\netcoreapp2.0\RaceApp.Entities.deps.json
+C:\Users\A_Uma\source\repos\RaceApp\RaceApp.Entities\bin\Debug\netcoreapp2.0\RaceApp.Entities.dll
+C:\Users\A_Uma\source\repos\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.csprojResolveAssemblyReference.cache
+C:\Users\A_Uma\source\repos\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\A_Uma\source\repos\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.AssemblyInfoInputs.cache
+C:\Users\A_Uma\source\repos\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.AssemblyInfo.cs
+C:\Users\A_Uma\source\repos\RaceApp\RaceApp.Entities\bin\Debug\netcoreapp2.0\RaceApp.Entities.pdb
+C:\Users\A_Uma\source\repos\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.dll
+C:\Users\A_Uma\source\repos\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.pdb
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\RaceApp.Entities\bin\Debug\netcoreapp2.0\RaceApp.Entities.deps.json
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\RaceApp.Entities\bin\Debug\netcoreapp2.0\RaceApp.Entities.dll
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\RaceApp.Entities\bin\Debug\netcoreapp2.0\RaceApp.Entities.pdb
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.csprojResolveAssemblyReference.cache
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.AssemblyInfoInputs.cache
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.AssemblyInfo.cs
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.dll
+C:\Users\A_Uma\Documents\Visual Studio 2017\Projects\RaceApp\RaceApp.Entities\obj\Debug\netcoreapp2.0\RaceApp.Entities.pdb

@@ -19,5 +19,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)RaceAppDb\RaceDataStore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RaceAppDb\RaceLocalDb.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RaceAppDb\RaceSQLite.cs" />
   </ItemGroup>
 </Project>

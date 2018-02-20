@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "74f08b9b942b895aac33167680fc539f37d94f0d"
+    "signature": "c207e8019f974f73cd531f30264b432bf4a66dec"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,7 +9,6 @@
       "RaceApp.Entities/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "10.0.3",
-          "SQLite.Net-PCL": "3.1.1",
           "SQLite.Net.Core-PCL": "3.1.1",
           "Xamarin.Forms": "2.5.0.280555"
         },
@@ -48,15 +47,6 @@
         },
         "runtime": {
           "lib/netstandard1.3/Newtonsoft.Json.dll": {}
-        }
-      },
-      "SQLite.Net-PCL/3.1.1": {
-        "dependencies": {
-          "SQLite.Net.Core-PCL": "3.1.1"
-        },
-        "runtime": {
-          "lib/net4/SQLite.Net.Platform.Win32.dll": {},
-          "lib/net40/SQLite.Net.Platform.Generic.dll": {}
         }
       },
       "SQLite.Net.Core-PCL/3.1.1": {
@@ -439,13 +429,6 @@
       "sha512": "sha512-wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
       "path": "newtonsoft.json/10.0.3",
       "hashPath": "newtonsoft.json.10.0.3.nupkg.sha512"
-    },
-    "SQLite.Net-PCL/3.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-eIaIk+k4MwvBeKyzj1kgIegWXYZlaDAHNzsaYP7wNDgSqAdaza8FgCRun7mIZScJD/RIuKxN/b1V+bkC+/WIeA==",
-      "path": "sqlite.net-pcl/3.1.1",
-      "hashPath": "sqlite.net-pcl.3.1.1.nupkg.sha512"
     },
     "SQLite.Net.Core-PCL/3.1.1": {
       "type": "package",

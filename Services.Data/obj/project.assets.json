@@ -13376,6 +13376,8 @@
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.2",
       "RaceApp.Entities >= 1.0.0",
+      "SQLite.Net-PCL >= 3.1.1",
+      "SQLite.Net.Core-PCL >= 3.1.1",
       "Xamarin.Forms >= 2.5.0.280555"
     ]
   },
@@ -13444,6 +13446,14 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[2.0.2, )"
+          },
+          "SQLite.Net-PCL": {
+            "target": "Package",
+            "version": "[3.1.1, )"
+          },
+          "SQLite.Net.Core-PCL": {
+            "target": "Package",
+            "version": "[3.1.1, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

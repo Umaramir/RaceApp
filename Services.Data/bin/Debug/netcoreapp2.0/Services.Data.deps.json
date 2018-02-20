@@ -27,6 +27,7 @@
           "Microsoft.NETCore.App": "2.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.2",
           "RaceApp.Entities": "1.0.0",
+          "SQLite.Net-PCL": "3.1.1",
           "Xamarin.Forms": "2.5.0.280555"
         },
         "runtime": {

@@ -9,8 +9,8 @@ namespace Services.Data.Helpers
 {
     public class RaceAppDb : DbContext
     {
-        public RaceAppDb(DbContextOptions<RaceAppDb> options) : base(options)
-        { }
+        //public RaceAppDb(DbContextOptions<RaceAppDb> options) : base(options)
+        //{ }
 
         public DbSet<UserProfile> UserProfile { get; set; }
         public DbSet<Race> Race { get; set; }
@@ -28,5 +28,10 @@ namespace Services.Data.Helpers
         public DbSet<Judge> Judge { get; set; }
         public DbSet<Medal> Medal { get; set; }
         public DbSet<DoorPrize> DoorPrize { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlite("Data Source=RaceApp.db");
+        }
     }
 }
